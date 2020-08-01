@@ -188,6 +188,7 @@ body {
   -o-transition: 0.3s;
   transition: 0.3s;
   cursor: pointer;
+  -webkit-appearance: none;
 }
 
 .header__button:hover {
