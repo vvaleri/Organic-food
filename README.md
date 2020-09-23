@@ -2,4 +2,4 @@
 
 https://vvaleri.github.io/Organic-food/
 
-+ натяжка вёрстки на WordPress https://orgfood.site/
++ вёрстка + натяжка на WordPress https://orgfood.site/
