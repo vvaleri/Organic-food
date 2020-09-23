@@ -1,4 +1,4 @@
-# Organic-food
+# organic-food
 
 https://vvaleri.github.io/Organic-food/
 
