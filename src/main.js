@@ -1,4 +1,4 @@
-
+//модальное окно и меню
     function showMenu (itemSelector, modalSelector, closeSelector) {
         let item = document.querySelector(itemSelector),
             modal = document.querySelector(modalSelector),
@@ -28,14 +28,12 @@
             }
         }) 
      }
-    
 
      showMenu('.header__burger', '.header__list')
      showMenu('.header__button', '.modal', '.modal__close')
   
 
  
-
     $(document).ready(function(){
         $('.reviews__slider').slick({
             arrows: false,
@@ -78,13 +76,10 @@ form.addEventListener('submit', (e) => {
         } else {
           throw new Error('Некорректный ответ от сервера');
         }
-    
         setTimeout(() => {
           statusMessage.remove();
         }, 3000)
-    
         return res.text();
-    
       })
     .then((text) => {
         console.log(text);
