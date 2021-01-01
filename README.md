@@ -1,5 +1,5 @@
-# organic-food
+# organic food
 
-created new theme of wordpress https://orgfood.site/
+created new [theme](https://orgfood.site/) of wordpress 
  
 
